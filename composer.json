@@ -15,6 +15,6 @@
 		"issues": "https://github.com/humanmade/WPThumb/issues"
 	},
 	"autoload"   : {
-		"classmap": ["wpthumb.php"]
+		"files": ["wpthumb.php"]
 	}
 }
